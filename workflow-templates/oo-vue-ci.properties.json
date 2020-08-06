@@ -1,0 +1,7 @@
+{
+  "name": "Outside Open Vue CI",
+  "description": "Outside Open Vue CI workflow template.",
+  "iconName": "example-icon",
+  "categories": ["Node"],
+  "filePatterns": ["package.json$", "vue.config.js"]
+}
